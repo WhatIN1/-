@@ -15,9 +15,9 @@
 
 {
 
-         "name": "TH-01-TRUE",
+         "name": "VIP-Premium",
 
-         "url": "https://raw.githubusercontent.com/WhatIN1/-/main/1.TH-TRUE.ovpn"
+         "url": "https://raw.githubusercontent.com/WhatIN1/-/main/VIP-Premium.ovpn"
 
       }
 
@@ -44,6 +44,6 @@
 
 "title":"New Update File" ,
 
-   "version":1
+   "version":2
 
-} 1", "title":"ไฟล์อัพเดทใหม่" , "เวอร์ชัน":1 }
+} 1", "title":"ไฟล์อัพเดทใหม่" , "เวอร์ชัน":2 }
